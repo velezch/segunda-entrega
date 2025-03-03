@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Christian Velez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hola 👋, soy Christian Velez</h1>
+<h3 align="center">Soy un desarrollador web principiante, dando mis primeros pasos en el curso de Desarrollo Web de Coderhouse</h3>
 
-- 🔭 I’m currently working on [Desarrollo Web (Coderhouse)](https://github.com/velezch/segunda-entrega)
+- 🔭 Esta es mi segunda entrega del curso de [Desarrollo Web (Coderhouse)](https://github.com/velezch/segunda-entrega)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/vlzchristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlzchristian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
