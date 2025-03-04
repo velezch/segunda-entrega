@@ -149,7 +149,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     
-    grid-template-rows: 600px 600px 600px;
+    /* grid-template-rows: 800px 800px 800px; */
     justify-items: center;
     width: 100%;
 }
